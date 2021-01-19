@@ -12,5 +12,5 @@ SOLID Design Principles with C# code samples
   
  
  
- You can check out my writings at https://medium.com/@enginunal
+ You can check out my writings at https://enginunal.medium.com/
 
