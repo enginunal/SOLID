@@ -8,3 +8,9 @@ SOLID Design Principles with C# code samples
 * D stands for DIP (Dependency inversion principle)
 
 
+
+  
+ 
+ 
+ You can check out my writings at https://medium.com/@enginunal
+
