@@ -34,8 +34,24 @@ namespace DIP.After
             return "ReadFrom() function";
         }
     }
-
+    
+    public class FileReader : IReader
+    {
+        public string ReadFrom()
+        {
+            return "ReadFrom() function";
+        }
+    }
+    
     public class PrinterWriter : IWriter
+    {
+        public void WriteTo(string msg)
+        {
+            //...
+        }
+    }
+    
+    public class FileWriter : IWriter
     {
         public void WriteTo(string msg)
         {
